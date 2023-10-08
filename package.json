@@ -1,0 +1,14 @@
+{
+  "name": "auth-service",
+  "version": "1.0.0",
+  "author": "Djalma Albuquerque",
+  "description": "Protecting API gateway endpoints with auth0",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.23.0",
+    "jsonwebtoken": "^8.1.0"
+  },
+  "devDependencies": {
+    "serverless-bundle": "^1.3.3"
+  }
+}
